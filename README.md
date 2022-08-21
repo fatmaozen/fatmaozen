@@ -3,7 +3,7 @@
 Hi, I’m @fatmaozen<br>I’m currently learning Java<br><br><br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/fatma#4274) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fatma#4274) 
 
 
 # 💻 Tech Stack:
